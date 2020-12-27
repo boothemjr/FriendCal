@@ -1,1 +1,3 @@
 # FriendCal
+
+Connection Test
